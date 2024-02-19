@@ -1,4 +1,4 @@
-# Tableau Data Visualization: 140 Essential Action Movies in Rotten Tomatoes
+# 140 Essential Action Movies in Rotten Tomatoes
 
 ## Overview
 
