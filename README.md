@@ -7,10 +7,10 @@ The visualization aims to provide insights into the distribution of genres, dire
 
 ## Key Visualizations
 
-1. Genre, Writers, Directors, Castings Breakdown:
+**Genre, Writers, Directors, Castings Breakdown:**
    - Bar chart showcasing the count of movies by genre, writer, director and casting
 
-2. Temporal Analysis:
+**Temporal Analysis:**
    - Line chart illustrating the count of movies released each year.
 
 ## Interactivity and Features
