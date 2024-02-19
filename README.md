@@ -17,17 +17,13 @@ The visualization aims to provide insights into the distribution of genres, dire
 
 - Filtering: Users can interactively filter to choose different movie by name
 
-## Screenshots
-
-- https://imgtr.ee/image/IqZxaK
-
 ## Data Sources
 
 - The visualization is based on the dataset collected from the webpage using one of the python web scraping libraries - BeautifulSoup
 
-## Data Processing
+## Screenshots
 
-- Process the collected dataset from web scraping using python
+- https://imgtr.ee/image/IqZxaK
 
 ## Visulization Link
 
